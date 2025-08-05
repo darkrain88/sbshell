@@ -31,7 +31,7 @@ bash <(curl -sL https://ghfast.top/https://raw.githubusercontent.com/darkrain88/
 
 ### 系统信息自动显示美化脚本： 
 ```
-bash <(curl -sL https://gh-proxy.com/https://raw.githubusercontent.com/darkrain88/DPInfo-script/refs/heads/main/auto-sysinfo.sh)
+bash <(curl -sL https://gh-proxy.com/https://raw.githubusercontent.com/qljsyph/DPInfo-script/refs/heads/main/auto-sysinfo.sh)
 ```
   执行后每次进入ssh会自动显示很多必要信息！
   仓库：  
